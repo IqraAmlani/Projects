@@ -121,20 +121,6 @@ Print_Output = "Total Books"
 total_output = ("|%-52s    | %-12i |\n" % (Print_Output,Total))
 Output_File.write(total_output)
 Output_File.write("+------------------+-------------------------------------+--------------+\n")
-#print(Borrowed_Book_Name,Borrowed_Book_Return_Date,Borrower_Name,Borrowed_Book_Price)
-
-
-
-
-
-
-
-
-    #print(Data[i]["Book_Id"]   for Data in  Return_Data if Borrower_Details[i]["Book_Id"] == Data[i]["Book_Id"])
-
-
-
-
 
 
 
